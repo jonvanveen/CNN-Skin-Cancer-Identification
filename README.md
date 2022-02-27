@@ -1,6 +1,6 @@
 # CNN-Skin-Cancer-Identification
 
-This project implements a convolutional neural network in Python (Keras/Tensorflow, sklearn) for image-based skin cancer lesion identification. It is based on [HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000), a highly skewed dataset with seven different lesion categories. 
+This project implements a convolutional neural network in Python (Keras/Tensorflow, sklearn) for MNIST-style image-based skin cancer lesion identification. It is based on [HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000), a highly skewed dataset with seven different lesion categories. 
 
 It was designed and presented with peers as a class project for the course Artificial Neural Networks at University of Wisconsin-Madison.
 
