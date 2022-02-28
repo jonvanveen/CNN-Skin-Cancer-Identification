@@ -4,4 +4,4 @@ This project implements a convolutional neural network in Python (Keras/Tensorfl
 
 It was designed and presented with peers as a class project for the course Artificial Neural Networks at University of Wisconsin-Madison.
 
-This repository contains the code implementation, slide presentation of project and results, and illustrations of network architecture and exemplary model evaluation metrics. 
+This repository contains the code implementation, slide presentation of project and results, and illustrations of network architecture and representative model evaluation metrics. 
